@@ -1,13 +1,13 @@
-# Start delevoping immediately
+# Start developing immediately ⚡️
 
-You don't need to do the annoying setup from scratch anymore.
+You don't need to do the **annoying**😡 setup from scratch anymore!
 
-## Technologies
+## Technologies ⚒️
 
 Vite, React 18, TypeScript, ESLint, Prettier
 
-## How to use
+## How to use 📖
 
-1. Git clone this repo
-2. `Yarn` / `npm i`, install dependency.
-3. `Yarn dev` / `npm run dev`, start development.
+1. git clone this repo.
+2. `yarn` or `npm i`, install dependencies.
+3. `yarn dev` or `npm run dev`, start development.
